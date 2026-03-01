@@ -46,3 +46,23 @@ Web Terminal menggunakan berbagai metode untuk menjalankan perintah:
 | `proc_open` | ✅ Paling lengkap | Kontrol penuh |
 | `` `backtick` `` | ✅ Alternatif | Operator PHP |
 | `PHP Native` | ✅ Selalu ada | Fallback terakhir |
+
+## ⚖️ **DISCLAIMER & ETHICAL USE**
+
+> **PENTING**: Aplikasi ini dibuat **HANYA UNTUK TUJUAN PEMBELAJARAN DAN ADMINISTRASI SERVER YANG SAH!**
+
+### 📚 **Tujuan Pembelajaran**
+Web Terminal ini dirancang untuk:
+- 🎓 **Edukasi** - Mempelajari cara kerja sistem operasi dan command line
+- 🔧 **Administrasi** - Memudahkan pengelolaan server pribadi
+- 💻 **Development** - Debugging dan testing aplikasi web
+- 🏫 **Praktikum** - Media pembelajaran jaringan dan sistem operasi
+
+### ⚠️ **Peringatan Hukum**
+
+```diff
+- ❌ DILARANG KERAS menggunakan aplikasi ini untuk:
+- • Mengakses server orang lain tanpa izin
+- • Melakukan peretasan atau cracking
+- • Mencoba mendapatkan akses tidak sah
+- • Aktivitas ilegal lainnya
