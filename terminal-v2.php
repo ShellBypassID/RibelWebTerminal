@@ -1,5 +1,6 @@
 <?php
 header('Content-Type: text/html; charset=UTF-8');
+header('Content-Type: application/json; charset=UTF-8');
 $PASSWORD = "admin123";  // default Password
 session_start();
 define('SCRIPT_DIR', __DIR__);
